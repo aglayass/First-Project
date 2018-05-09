@@ -1,0 +1,33 @@
+c:\users\hp\documents\visual studio 2015\Projects\TP12\TP12\bin\Debug\TP12.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\TP12\TP12\bin\Debug\TP12.exe
+c:\users\hp\documents\visual studio 2015\Projects\TP12\TP12\bin\Debug\TP12.pdb
+c:\users\hp\documents\visual studio 2015\Projects\TP12\TP12\obj\Debug\TP12.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\TP12\TP12\obj\Debug\TP12.Equipe.TeamInformation.resources
+c:\users\hp\documents\visual studio 2015\Projects\TP12\TP12\obj\Debug\TP12.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\TP12\TP12\obj\Debug\TP12.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\TP12\TP12\obj\Debug\TP12.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\TP12\TP12\obj\Debug\TP12.exe
+c:\users\hp\documents\visual studio 2015\Projects\TP12\TP12\obj\Debug\TP12.pdb
+c:\users\hp\documents\visual studio 2015\Projects\TP12\TP12\obj\Debug\TP12.Joueur.PlayerInformation.resources
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\Les TPS\TP12 Contrôle Continue 2\TP12\bin\Debug\TP12.exe.config
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\Les TPS\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.exe
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\Les TPS\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.pdb
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\Les TPS\TP12 Contrôle Continue 2\TP12\bin\Debug\TP12.exe
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\Les TPS\TP12 Contrôle Continue 2\TP12\bin\Debug\TP12.pdb
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\Les TPS\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\Les TPS\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.Equipe.TeamInformation.resources
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\Les TPS\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.Form1.resources
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\Les TPS\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.Joueur.PlayerInformation.resources
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\Les TPS\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.Properties.Resources.resources
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\Les TPS\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\TP\TP12 Contrôle Continue 2\TP12\bin\Debug\TP12.exe.config
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\TP\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.exe
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\TP\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.pdb
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\TP\TP12 Contrôle Continue 2\TP12\bin\Debug\TP12.exe
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\TP\TP12 Contrôle Continue 2\TP12\bin\Debug\TP12.pdb
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\TP\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\TP\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.Equipe.TeamInformation.resources
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\TP\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.Form1.resources
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\TP\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.Joueur.PlayerInformation.resources
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\TP\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.Properties.Resources.resources
+C:\Users\HP\Desktop\les TPS et les TDS(Azibou Mohamed Yassine)\TP\TP12 Contrôle Continue 2\TP12\obj\Debug\TP12.csproj.GenerateResource.Cache
